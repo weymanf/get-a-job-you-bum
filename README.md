@@ -33,7 +33,7 @@ Now remember what any of these algorithms are.
 
 ## Search
 
-Thank god for this website: https://www.geeksforgeeks.org/searching-algorithms/
-merge sort: https://www.geeksforgeeks.org/merge-sort/
-insertion sort: https://www.geeksforgeeks.org/insertion-sort/
+1. Thank god for this website: https://www.geeksforgeeks.org/searching-algorithms/
+1. merge sort: https://www.geeksforgeeks.org/merge-sort/
+1. insertion sort: https://www.geeksforgeeks.org/insertion-sort/
 
