@@ -35,7 +35,7 @@ Now remember what any of these algorithms are.
     - Bellman-Held-Karp algorithm: https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
 
 
-## Search
+## Sort
 
 1. Thank god for this website: https://www.geeksforgeeks.org/searching-algorithms/
 1. merge sort: https://www.geeksforgeeks.org/merge-sort/
