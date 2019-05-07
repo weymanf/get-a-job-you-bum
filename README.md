@@ -29,6 +29,10 @@ We can summarise this as below-
 ```
 
 Now remember what any of these algorithms are. 
+1. A* Search: https://www.geeksforgeeks.org/a-search-algorithm/ (like wtf is this name)
+1. Dijkstra: https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e 
+1. Traveling salesman with dynamic programming: https://www.youtube.com/watch?v=-JjA4BLQyqE (or you can read a garbo wikipedia page)
+  - Bellman-Held-Karp algorithm: https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
 
 
 ## Search
@@ -36,4 +40,5 @@ Now remember what any of these algorithms are.
 1. Thank god for this website: https://www.geeksforgeeks.org/searching-algorithms/
 1. merge sort: https://www.geeksforgeeks.org/merge-sort/
 1. insertion sort: https://www.geeksforgeeks.org/insertion-sort/
+1. heap sort: https://www.geeksforgeeks.org/heap-sort/
 
