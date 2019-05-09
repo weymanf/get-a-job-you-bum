@@ -52,14 +52,14 @@ Now remember what any of these algorithms are.
     1. [Project Euler](https://projecteuler.net/)
     1. [Codewars](https://www.codewars.com/) 
     1. [HackerRank](https://www.hackerrank.com/)
-		1. [LeetCode](https://leetcode.com/)
+    1. [LeetCode](https://leetcode.com/)
 
 1. Data Structures and Algorithms
     1. [PDF of a book for DS and ALGO](https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf)
-		1. [500 Data Structures and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions?share=1&utm_medium=email&utm_source=hackernewsletter&utm_term=code)
+    1. [500 Data Structures and Algorithms](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions?share=1&utm_medium=email&utm_source=hackernewsletter&utm_term=code)
     1. [Top 10 Algos in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-		1. [Big-O Cheat Sheet](http://bigocheatsheet.com/)(no https, gluck no hacksies plz)
+    1. [Big-O Cheat Sheet](http://bigocheatsheet.com/)(no https, gluck no hacksies plz)
 1. General Interview Prep
-		1. [GeeksforGeeks](https://www.geeksforgeeks.org/)
-		1. [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
-		1. [Practice Problems - Google Focused](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Google&page=1&sortBy=accuracy)
+    1. [GeeksforGeeks](https://www.geeksforgeeks.org/)
+    1. [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
+    1. [Practice Problems - Google Focused](https://practice.geeksforgeeks.org/explore/?company%5B%5D=Google&page=1&sortBy=accuracy)
